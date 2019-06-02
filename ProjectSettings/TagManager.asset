@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Zombie
+  - Boss
+  - Medkit
+  - BonusGun
+  - UI
+  - ZombieWeapon
   layers:
   - Default
   - TransparentFX
@@ -14,9 +20,9 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
+  - Floor
+  - Zombies
+  - Boss
   - 
   - 
   - 
